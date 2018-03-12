@@ -1,8 +1,7 @@
 /*
 *This is the code for LED_sketchpad Project 
 * Project was done with a team of two people
-* Author : Touchscreen Driver : Gautham K A
-*	   LED Dot Matrix : Yasir Aslam shah
+* Author :  Yasir Aslam shah and Gautham K A	   
 * Date : Dec 2017
 * Final Project for Embedded System Design Course 2017
 */ 
